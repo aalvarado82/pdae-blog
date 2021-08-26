@@ -5,8 +5,12 @@
       <div class="col-md-10 col-md-offset-1">
         <h2 class="text-blue-sapphire text-center fw-bold fs-52">{{ .Title }}</h2>
         <div class="d-grid gap-16 mt-32">
-          {{ range .Paginator.Pages }}
-            {{ partial "post-card.html" . }}
+          {{ if .Paginator.Pages }}
+            {{ range .Paginator.Pages }}
+              {{ partial "post-card.html" . }}
+            {{ end }}
+          {{ else }}
+            <p class="text-center fs-22">Próximamente, se habilitará este módulo.</p>
           {{ end }}
           <div class="text-center">
             {{ template "_internal/pagination.html" . }}
