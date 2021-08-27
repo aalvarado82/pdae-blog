@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <div class="post-container">
+    <h1 class="text-blue-sapphire fs-52 fw-bold mt-0">{{ .Title }}</h1>
+    <div class="post-content">
+      {{ .Content }}
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="{{ .Params.embed_url }}"></iframe>
+      </div>
+    </div>
+  </div>
+{{ end }}

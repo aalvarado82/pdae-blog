@@ -649,30 +649,13 @@ a:focus {
   margin-bottom: 0;
 }
 
-.footer-bottom {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 48px;
-  grid-template-areas: "a" "b" "c";
+.footer-bottom > * ~ * {
+  margin-top: 48px;
 }
 
 .footer-bottom-col {
+  margin: 0 auto;
   max-width: 400px;
-  border: none;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.footer-bottom-a {
-  grid-area: a;
-}
-
-.footer-bottom-b {
-  grid-area: b;
-}
-
-.footer-bottom-c {
-  grid-area: c;
 }
 
 .featured-banner {
@@ -984,22 +967,16 @@ a:focus {
     padding: 0 16px;
   }
 
-  .footer-bottom {
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-areas: "c a b";
-    grid-gap: 16px;
+  .footer-bottom > * {
+    border-left: 1px solid var(--sonic-silver);
+  }
+
+  .footer-bottom > * ~ * {
+    margin-top: 0;
   }
 
   .footer-bottom-col {
-    border-right: 1px solid var(--sonic-silver);
-    margin-left: 0;
-    margin-right: 0;
     max-width: 100%;
-    padding: 0 16px;
-  }
-
-  .footer-bottom-col:last-child {
-    border: none;
   }
 
   .pdae-group-list-item {
