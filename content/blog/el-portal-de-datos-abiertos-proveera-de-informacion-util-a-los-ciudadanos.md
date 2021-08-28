@@ -1,5 +1,5 @@
 ---
-title: "El Portal De Datos Abiertos Proveera De Informacion Util a Los Ciudadanos"
+title: "El Portal De Datos Abiertos proveerá de información útil a los ciudadanos"
 date: 2021-08-26T11:08:15-05:00
 draft: false
 description: Al ser miembro de la iniciativa Alianza para el Gobierno Abierto (conocida en inglés como Open Government Partnership), Ecuador construyó su Plan de Acción de Gobierno Abierto 2019-2022 que, entre otros puntos, promueve el "Rediseño y actualización del Portal de Datos Abiertos". Esta herramienta busca poner a disposición de los ciudadanos información fiable y relevante del país, de manera oportuna y accesible.

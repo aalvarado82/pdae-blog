@@ -1,8 +1,5 @@
 {{ define "main" }}
 <div class="post-container">
-  <p class="text-jungle-green">
-    <em>Última actualización <span class="fw-bold">{{ .Date.Day }} de {{ index $.Site.Data.months (printf "%d" .Date.Month) }} de {{ .Date.Year }}</span></em>
-  </p>
   <h1 class="text-blue-sapphire fs-52 fw-bold mt-0">{{ .Title }}</h1>
   {{ if .Params.cover }}
     <img class="img-responsive center-block" src="{{ .Params.cover | absURL }}" alt="{{.Title }}">
