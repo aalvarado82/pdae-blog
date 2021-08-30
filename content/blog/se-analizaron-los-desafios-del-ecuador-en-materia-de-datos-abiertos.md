@@ -3,7 +3,7 @@ title: "Se analizaron los desafíos del Ecuador en materia de datos abiertos"
 date: 2021-08-26T10:58:46-05:00
 draft: false
 description: El 08 de julio de 2021 se realizó el Webinar "Inducción a los Datos Abiertos", organizado por el Ministerio de Telecomunicaciones y de la Sociedad de la Información (Mintel) con la finalidad de impulsar una cultura de datos abiertos en Ecuador, que aporte a la transformación digital y a la lucha contra la corrupción. En el encuentro participaron expertos nacionales e internacionales.
-cover: uploads/desafios-datos-abiertos.png
+cover: cms/desafios-datos-abiertos.png
 ---
 
 **Quito, (08/07/2021).-** El 08 de julio de 2021 se realizó el Webinar “Inducción a los Datos Abiertos”, organizado por el Ministerio de Telecomunicaciones y de la Sociedad de la Información (Mintel) con la finalidad de impulsar una cultura de datos abiertos en Ecuador, que aporte a la transformación digital y a la lucha contra la corrupción. En el encuentro participaron expertos nacionales e internacionales.

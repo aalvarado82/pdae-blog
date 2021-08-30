@@ -3,7 +3,7 @@ title: Así se diseñó el Portal Nacional de Datos de Ecuador
 description: "En el marco de la consultoría internacional realizada por Datasketch para el diagnóstico, desarrollo y rediseño del Portal de Datos Abiertos de Ecuador, se siguieron una serie de procesos. Desde un diagnóstico de buenas prácticas internacionales, una propuesta metodológica y una serie de propuestas de diseño, para concluir con la plataforma de datos abiertos implementada en la web."
 
 author: Datasketch
-image: /uploads/desafios-datos-abiertos.png
+image: /cms/desafios-datos-abiertos.png
 date: 2021-07-22T17:40:52.139Z
 ---
 
@@ -15,7 +15,7 @@ Se realizaron dos talleres que involucran metodologías de design thinking (o pe
 
 El primer taller tuvo como objetivo identificar perfiles de usuario, especialmente los no gubernamentales, y secciones de contenido en relación con el uso de los datos abiertos en Ecuador. En el segundo taller se identificaron los pasos a realizar para que un gestor de información de alguna institución del gobierno pueda publicar un conjunto de datos, utilizando la misma metodología y teniendo presente el orden de los pasos.
 
-![Taller diseño datasketch](/uploads/portal-diseno-1.png)
+![Taller diseño datasketch](/cms/portal-diseno-1.png)
 
 _Imagen del taller de pensamiento de diseño._
 
@@ -25,7 +25,7 @@ Por otra parte, se definieron los pasos para que los gestores de información de
 
 El siguiente paso fue llevar a cabo una serie de propuestas tipo mockup o maqueta de la plataforma, que ilustraban el aspecto general de algunas de las secciones de la página web como la página de inicio de la plataforma y la página del catálogo de datos.
 
-![Taller diseño datasketch](/uploads/portal-diseno-1.png)
+![Taller diseño datasketch](/cms/portal-diseno-1.png)
 
 _Imagen sesión de presentación de mockups preliminares del diseño del Portal Nacional de Datos_
 
@@ -35,7 +35,7 @@ _Imagen sesión de presentación de mockups preliminares del diseño del Portal 
 
 Con los comentarios recopilados por las distintas entidades intervinientes en el proceso, se pudieron ajustar algunos aspectos gráficos y de funcionalidad que permitieron llegar al diseño final de la página.
 
-![Taller diseño datasketch](/uploads/portal-diseno-1.png)
+![Taller diseño datasketch](/cms/portal-diseno-1.png)
 
 Además, con el resultado de los talleres de design thinking y del proceso general de rediseño del Portal, se identificaron y especificaron los casos de uso relevantes para el funcionamiento de la plataforma. Finalmente se realizaron algunas pruebas de funcionalidad que permitieron probar el correcto funcionamiento de la plataforma y documentar las percepciones de distintos tipos de usuario frente a la usabilidad de la misma, para así corregir algunos asuntos dentro del diseño e implementación de la plataforma. 
 
