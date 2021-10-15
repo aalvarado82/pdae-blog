@@ -4,7 +4,7 @@ function main() {
   const search = window.location.search
   
   if (!search) {
-    iframe.setAttribute('src', 'https://datasketch.shinyapps.io/app-simple-charts-orgs/?lang=es&org_name=ecuador-datos-abiertos&data_url=')
+    iframe.setAttribute('src', 'https://datasketch.shinyapps.io/pdaeviz-app/?data=')
     return
   }
   
@@ -12,7 +12,7 @@ function main() {
   const resourceURL = search.match(/resource=(.*)&/)
   const originURL = search.match(/origin=(.*)&?/)
 
-  iframe.setAttribute('src', `https://datasketch.shinyapps.io/app-simple-charts-orgs/?lang=es&org_name=ecuador-datos-abiertos&data_url=${dataURL[1]}`)
+  iframe.setAttribute('src', `https://datasketch.shinyapps.io/pdaeviz-app/?data=${dataURL[1]}`)
   resource.href = `${originURL[1]}${resourceURL[1]}`
 }
 
