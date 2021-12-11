@@ -7,9 +7,11 @@
       <div class="text-jungle-green mt-16 post-content">
         {{ .Content }}
       </div>
+      {{ if .Date }}
       <p class="text-jungle-green mt-16">
         <em>Última actualización <span class="fw-bold">{{ .Date.Day }} de {{ index $.Site.Data.months (printf "%d" .Date.Month) }} de {{ .Date.Year }}</span></em>
       </p>
+      {{ end }}
     </div>
   </div>
 {{ else }}
