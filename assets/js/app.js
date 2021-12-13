@@ -4,7 +4,7 @@ function main() {
   const search = window.location.search
   
   if (!search) {
-    iframe.setAttribute('src', 'https://datasketch.shinyapps.io/pdaeviz-app/?data=')
+    iframe.setAttribute('src', 'https://datasketch.shinyapps.io/pdaeviz/?data=')
     return
   }
   
@@ -12,7 +12,7 @@ function main() {
   const resourceURL = search.match(/resource=(.*)&/)
   const originURL = search.match(/origin=(.*)&?/)
 
-  iframe.setAttribute('src', `https://datasketch.shinyapps.io/pdaeviz-app/?data=${dataURL[1]}`)
+  iframe.setAttribute('src', `https://datasketch.shinyapps.io/pdaeviz/?data=${dataURL[1]}`)
   resource.href = `${originURL[1]}${resourceURL[1]}`
 }
 
