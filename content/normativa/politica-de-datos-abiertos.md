@@ -7,5 +7,5 @@ description: Tiene como objetivo implementar los datos abiertos en la Función E
 
 Tiene como objetivo implementar los datos abiertos en la Función Ejecutiva para fortalecer la participación ciudadana, la transparencia gubernamental, mejorar la eficiencia en la gestión pública, promover la investigación, el emprendimiento y la innovación en la sociedad.
 
-**Enlace:** [https://bit.ly/PoliticaDatosAbiertosEC](https://bit.ly/PoliticaDatosAbiertosEC)
+**Enlace:** [https://bit.ly/PoliticaDatosAbiertosEC2022](https://bit.ly/PoliticaDatosAbiertosEC2022)
 
