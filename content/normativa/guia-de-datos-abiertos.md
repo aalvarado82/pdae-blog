@@ -7,5 +7,5 @@ description: Esta guía tiene por objetivo proporcionar criterios técnicos y me
 
 Esta guía tiene por objetivo proporcionar criterios técnicos y metodológicos para planificar, abrir, publicar y promover la utilización de los datos abiertos gubernamentales.
 
-**Enlace:** [http://bit.ly/GuiaDatosAbiertosEc](http://bit.ly/GuiaDatosAbiertosEc)
+**Enlace:** [http://bit.ly/GuiaDatosAbiertosEc2022](http://bit.ly/GuiaDatosAbiertosEc2022)
 
