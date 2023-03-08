@@ -1,5 +1,5 @@
 ---
 title: Estudios
 menu: learn
-weight: 2
+weight: 1
 ---
