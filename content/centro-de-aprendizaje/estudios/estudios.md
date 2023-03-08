@@ -1,6 +1,7 @@
 ---
 title: "Relevancia de los datos abiertos"
 standalone: true
+draft: true
 description: Relevancia de los datos abiertos para prevenir la corrupción - Guía aplicable a casos de estudio en Ecuador.
 ---
 
