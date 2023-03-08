@@ -1,7 +1,6 @@
 ---
 title: "Relevancia de los datos abiertos"
-date: 2023-04-08T12:00:00-05:00
-draft: false
+standalone: true
 description: Relevancia de los datos abiertos para prevenir la corrupción - Guía aplicable a casos de estudio en Ecuador.
 ---
 
