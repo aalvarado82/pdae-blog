@@ -1,4 +1,4 @@
-baseURL = "https://blog-pdae.netlify.app/"
+baseURL = "https://pdaec.netlify.app/"
 title = "Datos Abiertos Ecuador"
 paginate = 10
 paginatePath = 'pagina'
