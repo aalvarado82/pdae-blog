@@ -1,9 +1,19 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Example</title>
-    </head>
-    <body>
-        <p>This is an example of a simple HTML page with one paragraph.</p>
-    </body>
-</html>
+{{ define "main" }}
+<div class="container-fluid">
+  <div style="padding-top: 20px; padding-bottom: 20px;" class="text-sinopia">
+    <a href="" id="resource" class="fw-bold text-decoration-none fs-22">
+      <i class="b bi-chevron-left"></i>
+      <span>Volver al archivo</span>
+    </a>
+  </div>
+</div>
+<div class="app-container">
+  <iframe style="width: 1px; min-width: 100%;" frameborder="0"></iframe>
+</div>
+{{ end }}
+
+{{ define "js" }}
+  <!-- <script src="https://unpkg.com/iframe-resizer@4.3.1/js/iframeResizer.min.js"></script> -->
+  {{ $app := resources.Get "js/app.js" | minify }}
+  <script src="{{ $app.Permalink | absURL }}"></script>
+{{ end }}
