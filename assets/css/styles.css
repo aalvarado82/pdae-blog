@@ -1104,3 +1104,52 @@ a:focus {
     padding: 56px 34.5px 15.5px 37.5px;
   }
 }
+
+.bordeAzul{
+	border-bottom: 2px solid #212C5C;
+}
+.fondoAzul{
+	background: #212C5C;
+}
+.colorAzul, .colorAzul li a{
+	color: #212C5C !important;
+}
+.bordeNaranja{
+	border-bottom: 2px solid #E57E40;
+}
+.fondoNaranja{
+	background: #E57E40;
+}
+.colorNaranja, .colorNaranja li a{
+	color: #E57E40 !important;
+}
+.bordeNaranja, .bordeAzul{
+	margin-bottom: 1em;
+}
+.titOtras{
+	font-weight: bold;
+	font-size: 1.5em;
+	display: flex;
+	align-items: center;
+}
+.centrado{
+	text-align: center;
+}
+.col-md-2{
+	padding: 0.2em 0;
+}
+.listadoUrl li{
+	list-style-type: disclosure-closed;
+}
+.propiedadImg{
+	max-height: 4em;
+	padding: 0 0.5em;
+}
+.propiedadImg img{
+	width: 100%;
+	padding: 0.5em 0;
+	
+}
+.espacioSecciones{
+	margin-top: 2em;
+}
