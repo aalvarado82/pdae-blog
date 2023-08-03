@@ -1,12 +1,3 @@
----
-title: Así se diseñó el Portal Nacional de Datos de Ecuador
-description: "En el marco de la consultoría internacional realizada por Datasketch para el diagnóstico, desarrollo y rediseño del Portal de Datos Abiertos de Ecuador, se siguieron una serie de procesos. Desde un diagnóstico de buenas prácticas internacionales, una propuesta metodológica y una serie de propuestas de diseño, para concluir con la plataforma de datos abiertos implementada en la web."
-
-author: Datasketch
-image: /cms/desafios-datos-abiertos.png
-date: 2021-07-22T17:40:52.139Z
----
-
 En el marco de la consultoría internacional realizada por [Datasketch](https://datasketch.co) para el diagnóstico, desarrollo y rediseño del Portal de Datos Abiertos de Ecuador, se siguieron una serie de procesos. Desde un diagnóstico de buenas prácticas internacionales, una propuesta metodológica y una serie de propuestas de diseño, para concluir con la plataforma de datos abiertos implementada en la web.
 
 El primer paso en este proceso consistió en hacer un análisis de las plataformas informáticas de Datos Abiertos existentes a nivel internacional de Argentina, Uruguay, Colombia y México, y a nivel nacional del Portal de Datos Abiertos de Ecuador. A partir de esto se generó una propuesta metodológica que contempló un proceso de mejoramiento de las funcionalidades de la plataforma publicada en esos momentos, e incluir nuevas a partir de ejercicios de pensamiento de diseño y otros espacios de discusión con los actores principales.
