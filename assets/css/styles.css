@@ -1153,3 +1153,6 @@ a:focus {
 .espacioSecciones{
 	margin-top: 2em;
 }
+.centradoH{
+        display: flex;
+}
