@@ -7,4 +7,4 @@ description: Relevancia de los datos abiertos para prevenir la corrupción - Gu�
 
 Relevancia de los datos abiertos para prevenir la corrupción - Guía aplicable a casos de estudio en Ecuador.
 
-**Enlace:** [https://bit.ly/RelevanciaDatosAbiertos](https://bit.ly/RelevanciaDatosAbiertos) {:target="_blank"}
+**Enlace:** [https://bit.ly/RelevanciaDatosAbiertos](https://bit.ly/RelevanciaDatosAbiertos:target="_blank")
