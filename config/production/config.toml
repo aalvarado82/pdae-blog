@@ -12,6 +12,6 @@ taxonomies = []
         learn = "Centro de aprendizaje"
         faq = "Preguntas frecuentes"
         manuals = "Manuales de usuario"
-        courses = "Cursos de capacitación"
+        # courses = "Cursos de capacitación"
         estudies = "Estudios"
         participation = "Indicadores / Participación"
