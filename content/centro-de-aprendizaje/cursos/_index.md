@@ -1,6 +1,6 @@
 ---
 title: Cursos de capacitación
-menu: learn
+# menu: learn
 draft: true
 weight: 3
 ---
