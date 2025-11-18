@@ -1,4 +1,4 @@
 ---
 title: Manual de usuario
-embed_url: https://multimedia.presidencia.gob.ec/MANUALES/Manual%20de%20Usuarios%20Portal.pdf
+embed_url: https://www.presidencia.gob.ec/wp-content/uploads/2025/11/Manual-de-Usuarios-Portal-DatosAbiertos.pdf
 ---
