@@ -1,4 +1,8 @@
 ---
 title: Manual de gestores
-embed_url: https://github.com/aalvarado82/pdae-blog/blob/main/assets/Manual-de-Gestores-del-Portal-DatosAbiertos.pdf
+url: https://www.presidencia.gob.ec/wp-content/uploads/2025/11/Manual-de-Gestores-del-Portal-DatosAbiertos.pdf
 ---
+
+Descarga el manual del siguiente enlace:
+
+**Enlace:** [https://www.presidencia.gob.ec/wp-content/uploads/2025/11/Manual-de-Gestores-del-Portal-DatosAbiertos.pdf)
