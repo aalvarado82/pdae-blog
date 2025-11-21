@@ -1156,3 +1156,8 @@ a:focus {
 .centradoH{
         display: flex;
 }
+.post-content h2 img{
+	max-width: 50px
+}
+.learn-resources .post-container .post-content{
+	text-align:center;
